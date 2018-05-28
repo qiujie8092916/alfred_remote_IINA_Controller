@@ -28,8 +28,3 @@
 
 # 效果图
 <img width="400" alt="https://github.com/qiujie8092916/alfred_remote_IINA_Controller/raw/master/src/img/IMG_E2DC6F51E8C3-1.jpeg" src="https://github.com/qiujie8092916/alfred_remote_IINA_Controller/raw/master/src/img/IMG_E2DC6F51E8C3-1.jpeg" />
-> 方便mac连接外接大屏看电影的时候，躺在沙发上也可以随意操控  
-
-> 附上icon  
-
-> <img width="50" alt="https://github.com/qiujie8092916/alfred_remote_IINA_Controller/raw/master/src/img/iina_icon.png" src="https://github.com/qiujie8092916/alfred_remote_IINA_Controller/raw/master/src/img/iina_icon.png" />
